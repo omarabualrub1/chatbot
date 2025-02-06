@@ -1,0 +1,22 @@
+
+The provided Python script is a simple chatbot using the Tkinter library for the graphical user interface. It loads information about AI courses from a JSON file and responds to user queries about faculty requirements, department mandatory requirements, university requirements, course details, and more. The chatbot is designed to run in a Tkinter window, where users can input queries, and the chatbot provides responses.
+
+Accomplishments:
+Graphical User Interface (GUI): The chatbot has a graphical user interface built using Tkinter, allowing users to interact with the bot through a window.
+
+Data Loading: The script loads information about AI courses from a JSON file named 'data.json.' The courses include details such as code, title, credit hours, prerequisites, and descriptions.
+
+Natural Language Processing (NLP): The chatbot processes user input using NLTK for tokenization, stopword removal, and regular expressions for identifying course codes.
+
+Response Generation: Based on user input, the chatbot generates responses, providing information about faculty requirements, department mandatory requirements, university requirements, and specific details about AI courses.
+
+Course Information Retrieval: The chatbot extracts information about AI courses from the loaded JSON data, including course title, credit hours, prerequisites, and descriptions.
+
+Randomized Greetings and Goodbyes: The chatbot generates random greetings and goodbyes to enhance the conversational experience.
+
+Nature of the Information Trained On:
+The chatbot has been trained on information related to AI courses, including faculty requirements, department mandatory requirements, university requirements, course details, and other relevant information. The data is structured in a JSON format, providing details about each course, such as code, title, credit hours, prerequisites, and descriptions.
+
+The chatbot uses NLTK for natural language processing to understand user queries, extract relevant information, and generate appropriate responses. It also employs regular expressions to identify course codes in user input.
+
+The information provided in the chatbot covers various aspects, including academic requirements, course content, department objectives, mission statements, and outcomes. Users can inquire about specific courses, course requirements, and the overall structure of the AI program
