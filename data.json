@@ -1,0 +1,230 @@
+{
+  "courses": [
+    {
+      "code": "AI 240",
+      "title": "Introduction to Artificial Intelligence",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-284",
+      "description": "An introduction to the basic knowledge representation, problem-solving, and learning methods of artificial intelligence. Topics include specific AI techniques, application areas, and connections between AI and other areas of study."
+    },
+
+    {
+      "code": "AI 244",
+      "title": "Artificial Intelligence Programming",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-101",
+      "description": "This course provides fundamentals of the Python programming language, along with programming best practices. It covers libraries in Python for solving computational problems related to AI and Machine Learning tasks."
+    },
+    {
+      "code": "AI 249",
+      "title": "Machine Learning",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-244",
+      "description": "This course provides a broad introduction to principles, algorithms, and applications of machine learning. Topics include mathematical concepts, supervised learning, curve fitting, linear models, and more."
+    },
+    {
+      "code": "AI 328",
+      "title": "Big Data Processing",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CIS-221",
+      "description": "Addresses distributed storage and large data set processing focusing on architectures and technologies. Students will learn about Hadoop and other tools for distributed storage and data processing."
+    },
+    {
+      "code": "AI 342",
+      "title": "Deep Learning",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-249",
+      "description": "Introduces students to deep learning principles, covering feedforward neural networks, convolutional neural networks, recurrent neural networks, and various techniques to improve neural networks."
+    },
+    {
+      "code": "AI 350",
+      "title": "Data Science",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-328",
+      "description": "Provides students with key concepts in data science and programming skills. Topics include data acquisition, exploration, cleaning, feature selection, model selection, and result analysis using Python packages."
+    },
+    {
+      "code": "AI 356",
+      "title": "Information Retrieval",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-249",
+      "description": "Aims to understand information retrieval algorithms and identify challenging problems on the Web. Topics include keyword-based retrieval, file structures, thesaurus construction, and more."
+    },
+    {
+      "code": "AI 365",
+      "title": "Information Security and Privacy",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-240",
+      "description": "Covers fundamental issues and first principles of security and information assurance. Topics include security policies, cryptography, network security, risk management, and legal and ethical issues in security."
+    },
+    {
+      "code": "AI 375",
+      "title": "Digital Image Processing",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-284 + Math-140",
+      "description": "Covers principles of image processing, including sampling, quantization, color, segmentation, linear image filtering, feature extraction, and recognition tasks."
+    },
+    {
+      "code": "AI 378",
+      "title": "Smart Systems",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-375",
+      "description": "Prepares students for smart cities and IoT markets. Introduces building blocks of IoT systems and uses AI algorithms for real-world applications in telco management, intelligent transportation, urban planning, and more."
+    },
+    {
+      "code": "AI 380",
+      "title": "Optimization Algorithms",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-284 + AI-244",
+      "description": "Introduces principles of optimization problems and algorithms, covering heuristics, metaheuristics, and evolutionary optimization techniques. Focus on applications in Machine Learning, Data Science, Neural Networks, and Deep Learning."
+    },
+    {
+      "code": "AI 421",
+      "title": "Cloud Computing",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-328",
+      "description": "Gives an introduction to cloud computing, key technologies, service models, deployment models, cloud security, and hands-on experience with cloud platforms like AWS and Azure."
+    },
+    {
+      "code": "AI 428",
+      "title": "Computer Vision",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-342",
+      "description": "Introduces basic principles of computer vision, covering image formation, feature detection, segmentation, object recognition, and the use of machine learning techniques in computer vision applications."
+    },
+    {
+      "code": "AI 435",
+      "title": "Natural Language Processing",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-342",
+      "description": "Explores computational methods for working with human language, focusing on natural language understanding and generation. Covers syntactic and semantic analysis, sentiment analysis, machine translation, and more."
+    },
+    {
+      "code": "AI 448",
+      "title": "Reinforcement Learning",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "AI-249 + AI-342",
+      "description": "Provides an introduction to reinforcement learning, covering topics such as Markov decision processes, dynamic programming, Monte Carlo methods, policy gradients, and applications in robotics and game playing."
+    },
+    {
+      "code": "AI 470",
+      "title": "Capstone Project",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "Senior standing and completion of AI-328, AI-342, and AI-435",
+      "description": "The capstone project provides students with the opportunity to apply their knowledge and skills to a real-world problem in artificial intelligence."
+    }
+  ,
+    {
+      "code": "CS 101",
+      "title": "Introduction to Programming : C++",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CIS-99 (or concurrent)",
+      "description": "An introduction to programming concepts using a high-level language. Topics include algorithm development, debugging, and problem-solving. Laboratory exercises provide hands-on experience in programming."
+    },
+    {
+      "code": "SE 103",
+      "title": "Introduction to IT",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-101 (or concurrent)",
+      "description": "An introduction to the fundamental concepts of Information Technology (IT). Topics include computer hardware and software, operating systems, networks, the Internet, and IT ethics."
+    },
+    {
+      "code": "LG 101 ",
+      "title": "Communication Skills in English",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "Pass LG 099 or passing English exam",
+      "description": "Communication Skills courses typically focus on enhancing students' abilities to effectively communicate in English. These skills may include verbal communication, written communication, interpersonal communication, public speaking, and presentation skills. The course may also cover topics such as effective listening, critical thinking, and adapting communication styles for different contexts ."
+    },
+    {
+     "code": "Math 101",
+      "title": "Calculus I",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "-",
+      "description": "A comprehensive introduction to differential and integral calculus. Topics include limits, derivatives, integrals, and applications of calculus in various fields."
+    },
+    {
+     "code": "CS 211",
+      "title": "Data Structures",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "Math 241 and passing SE 112",
+      "description": "Introduction to data structures using an object-oriented programming language. Logical and physical representation of data structures, collection\ntypes, array-based lists, linked lists, stacks, queues, basics of algorithm analysis, binary trees, binary search trees, hashing, and heaps. Applications\nand algorithms based on data structures are covered in this course. Weekly laboratory experiments will provide hands-on experience in topics\ncovered in this course."
+    },
+    {
+      "code": "Math 241",
+      "title": "Discrete Mathematics",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "-",
+      "description": "Introduction to mathematical reasoning, sets, logic, proof techniques, functions, relations, combinatorics, and graph theory. Applications to computer science are emphasized."
+    },
+    {
+      "code": "CS 284",
+      "title": "Analysis and Design of Algorithms",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-211 + Math-233",
+      "description": "An in-depth study of algorithms, including analysis, design, and implementation. Topics include divide and conquer, dynamic programming, greedy algorithms, graph algorithms, and NP-completeness."
+    },
+    {
+      "code": "CIS 201",
+      "title": "Introduction to Web Design",
+      "credit_hours": "1C=1H+0L",
+      "prerequisite": "SE-112",
+      "description": "Introduction to the principles and techniques of web design. Topics include HTML, CSS, JavaScript, and basic web development concepts."
+    },
+    {
+      "code": "CIS 221",
+      "title": "Fundamentals of Database Systems",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS-211",
+      "description": "Fundamental concepts of database systems. Topics include database design, SQL, normalization, indexing, and basic database management systems."
+    },
+    {
+      "code": "SE 112",
+      "title": "Introduction to Object-Oriented Programing ",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS 102",
+      "description": "Introduction to Object-Oriented Programming introduces object-oriented programming concepts. Topics include classes, objects, inheritance, polymorphism, and basic software design principles."
+    },
+    {
+      "code": "CIS 203",
+      "title": "Communication and Professional Ethics ",
+      "credit_hours": "2C=2H+0L",
+      "prerequisite": "-",
+      "description": "Communication and Professional Ethics focuses on effective communication in the context of computing. It also covers ethical considerations and professionalism in the field."
+    },
+    {
+      "code": "MS 100",
+      "title": "Military Science ",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "-",
+      "description": "comprehensive and rigorous academic initiative designed to prepare students for leadership roles within the armed forces, as well as cultivate skills and values that are applicable across various professional sectors. Rooted in a commitment to excellence, discipline, and service, this program provides a multifaceted educational experience that combines theoretical knowledge with practical training."
+    },
+    {
+      "code": "LG 103",
+      "title": "Life Skills ",
+      "credit_hours": "2C=2H+0L",
+      "prerequisite": "-",
+      "description": "comprehensive program designed to equip students with the practical knowledge, personal development, and adaptive abilities necessary for success in both academic and real-world settings. This specialized curriculum goes beyond traditional academic subjects, focusing on essential skills that are invaluable in various aspects of life"
+    },
+    {
+      "code": "HSS 119",
+      "title": "Entrepreneurship and Innovation ",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "CS 284+ AI244",
+      "description": "dynamic and immersive educational experience designed to cultivate the skills, mindset, and practical know-how required to thrive in the ever-evolving landscape of business and technology. This program is committed to fostering a culture of creativity, risk-taking, and forward-thinking, empowering students to become not only successful entrepreneurs but also agents of positive change in society."
+    },
+    {
+      "code": "HSS 110",
+      "title": "Leader and Social Responsibility",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "-",
+      "description": "innovative and transformative educational experience that focuses on developing ethical leaders with a strong commitment to social responsibility. Rooted in the principles of integrity, empathy, and civic engagement, this program aims to prepare students to lead with a sense of purpose, making positive contributions to their communities and society at large."
+    },
+    {
+     "code": "ARB 102",
+      "title": "Communication Skills in Arabic",
+      "credit_hours": "3C=3H+0L",
+      "prerequisite": "-",
+      "description": "Development of communication skills in Arabic, including reading, writing, speaking, and listening. Emphasis on practical language use."
+    }
+  ]
+}
